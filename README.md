@@ -5,7 +5,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 ### Must Have
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin]   [Github][ProtocalLid_Free_SpigotMC]|
+|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin]  [Github][ProtocalLid_Free_SpigotMC]|
 |FreedonChat|[Modrinth][FreedonChat_Free_Modrinth]|
 
 [ProtocalLid_Free_Jenkin]: https://ci.dmulloy2.net/job/ProtocolLib/
