@@ -76,13 +76,14 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |Selective Visualiser|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
-|PlayerVaultX|NA|[SpigotMC][PlayerVaultX_Paid_SpigotMC]|
+|PlayerVaultX|[Jenkin][PlayerVaultX_Free_Jenkin][^DB]|[SpigotMC][PlayerVaultX_Paid_SpigotMC]|
 |AxVaults|[SpigotMC][AxVaults_Free_SpigotMC]|NA|
 |XVaults|[SpigotMC][XVaults_Free_SpitgotMC]|NA|
 |AxSmithing|[SpigotMC][AxSmithing_Free_SpigotMC]|NA|
 |CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 
 [SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
+[PlayerVaultX_Free_Jenkin]: https://ci.ender.zone/view/All/job/PlayerVaultsX/
 [PlayerVaultX_Paid_SpigotMC]: https://www.spigotmc.org/resources/playervaultsx.51204/
 [AxVaults_Free_SpigotMC]: https://www.spigotmc.org/resources/axvaults-the-ultimate-vaults-plugin.114764/
 [XVaults_Free_SpitgotMC]: https://www.spigotmc.org/resources/xvaults-player-vaults-1-20.99163/
