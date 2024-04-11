@@ -30,9 +30,10 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |PlotSquared|[Github][PlotSquared_Free_Github][^1]|[SpigotMC][PlotSquared_Paid_SpigotMC]:
-|FactionUUID|
-|KingsdomX|
-|Bentobox|
+|FactionUUID|[Jenkin][FactionUUID_Free_Jenkin]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
+|KingsdomX|[Discord Invite][KingsdomX_Free_DiscordInvite]|[SpigotMC][KingsdomX_Paid_SpigotMC]
+|Bentobox|[Github][Bentobox_Free_Github]  [SpigotMC][Bentobox_Free_SpigotMC]|NA
+|TownyAdvanced|[Github][TownyAdvanced_Free_Github]|NA|
 
 [^1]: You need to build it yourself
 
