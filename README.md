@@ -8,10 +8,8 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin][^1]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
+|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin][^DB]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
 |FreedonChat|[Modrinth][FreedonChat_Free_Modrinth]|NA|
-
-[^1]: Development build
 
 [ProtocalLid_Free_Jenkin]: https://ci.dmulloy2.net/job/ProtocolLib/
 [ProtocalLid_Free_Github]: https://github.com/dmulloy2/ProtocolLib
@@ -27,11 +25,12 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |------|:------:|:-----:|
 |CMI|NA|[SpigotMC][CMI_Paid_SpigotMC]|
 |Citizens|NA|[SpigotMC][Citizens_Paid_SpigotMC]|
-|Multiverse-Core|[Github][Multiverse-Core_Free_Github] [BukkitDev][Multiverse-Core_Free_BukkitDev]  [SpigotMC][Multiverse-Core_Free_SpigotMC]|NA|
+|Multiverse-Core|[Github][Multiverse-Core_Free_Github]  [Modrinth][Multiverse-Core_Free_Modrinth]  [BukkitDev][Multiverse-Core_Free_BukkitDev]  [SpigotMC][Multiverse-Core_Free_SpigotMC]|NA|
 
 [CMI_Paid_SpigotMC]: https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/
 [Citizens_Paid_SpigotMC]: https://www.spigotmc.org/resources/citizens.13811/
 [Multiverse-Core_Free_Github]: https://github.com/Multiverse/Multiverse-Core
+[Multiverse-Core_Free_Modrinth]: https://modrinth.com/plugin/multiverse-core
 [Multiverse-Core_Free_BukkitDev]: https://dev.bukkit.org/projects/multiverse-core
 [Multiverse-Core_Free_SpigotMC]: https://www.spigotmc.org/resources/multiverse-core.390/
 </details>
@@ -42,13 +41,11 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|PlotSquared|[Github][PlotSquared_Free_Github][^2]|[SpigotMC][PlotSquared_Paid_SpigotMC]
-|FactionUUID|[Jenkin][FactionUUID_Free_Jenkin][^1]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
+|PlotSquared|[Github][PlotSquared_Free_Github][^BIY]|[SpigotMC][PlotSquared_Paid_SpigotMC]
+|FactionUUID|[Jenkin][FactionUUID_Free_Jenkin][^DB]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
 |KingsdomX|[Discord Invite][KingsdomX_Free_DiscordInvite]|[SpigotMC][KingsdomX_Paid_SpigotMC]
 |Bentobox|[Github][Bentobox_Free_Github]  [SpigotMC][Bentobox_Free_SpigotMC]|NA
 |TownyAdvanced|[Github][TownyAdvanced_Free_Github]|NA|
-
-[^2]: You need to build it yourself
 
 [PlotSquared_Free_Github]: https://github.com/IntellectualSites/PlotSquared/releases
 [PlotSquared_Paid_SpigotMC]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
@@ -80,11 +77,19 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |------|:------:|:-----:|
 |Selective Visualiser|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
 |PlayerVaultX|NA|[SpigotMC][PlayerVaultX_Paid_SpigotMC]|
+|AxVaults|[SpigotMC][AxVaults_Free_SpigotMC]|NA|
+|XVaults|[SpigotMC][XVaults_Free_SpitgotMC]|NA|
 |AxSmithing|[SpigotMC][AxSmithing_Free_SpigotMC]|NA|
 |CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 
 [SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
 [PlayerVaultX_Paid_SpigotMC]: https://www.spigotmc.org/resources/playervaultsx.51204/
+[AxVaults_Free_SpigotMC]: https://www.spigotmc.org/resources/axvaults-the-ultimate-vaults-plugin.114764/
+[XVaults_Free_SpitgotMC]: https://www.spigotmc.org/resources/xvaults-player-vaults-1-20.99163/
 [AxSmithing_Free_SpigotMC]: https://www.spigotmc.org/resources/axsmithing-viaversion-addon.112793/
 [CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 </details>
+
+
+[^DB]: Development build
+[^BIY]: Build It Yourself
