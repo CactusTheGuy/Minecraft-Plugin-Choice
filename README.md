@@ -9,8 +9,10 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Citizens|NA|[SpigotMC][Citizens_Paid_SpigotMC]|
 |Selective Visualiser|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
 |AxSmithing|[SpigotMC][AxSmithing_Free_SpigotMC]|NA|
+|CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 
 [CMI_Paid_SpigotMC]: https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/
 [Citizens_Paid_SpigotMC]: https://www.spigotmc.org/resources/citizens.13811/
 [SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
 [AxSmithing_Free_SpigotMC]: https://www.spigotmc.org/resources/axsmithing-viaversion-addon.112793/
+[CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
