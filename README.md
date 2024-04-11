@@ -2,6 +2,16 @@
 This is contain all of my potentially usage of my own minecraft server, please take this list as a grain of salt as this is personal references.
 
 ## List of plugins
+### Must Have
+|Plugin|Freemium|Premium|
+|------|:------:|:-----:|
+|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin]  [Github][ProtocalLid_Free_SpigotMC]|
+|FreedonChat|[Modrinth][FreedonChat_Free_Modrinth]|
+
+[ProtocalLid_Free_Jenkin]: https://ci.dmulloy2.net/job/ProtocolLib/
+[ProtocalLid_Free_SpigotMC]: https://www.spigotmc.org/resources/protocollib.1997/
+[FreedonChat_Free_Modrinth]: https://modrinth.com/plugin/freedomchat
+
 ### Management
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
