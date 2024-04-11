@@ -25,7 +25,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [Multiverse-Core_Free_BukkitDev]: https://dev.bukkit.org/projects/multiverse-core
 [Multiverse-Core_Free_SpigotMC]: https://www.spigotmc.org/resources/multiverse-core.390/
 
-##Addon
+## Addon
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |Selective Visualiser|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
