@@ -43,7 +43,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |------|:------:|:-----:|
 |PlotSquared|[Github][PlotSquared_Free_Github][^BIY]|[SpigotMC][PlotSquared_Paid_SpigotMC]
 |FactionUUID|[Jenkin][FactionUUID_Free_Jenkin][^DB]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
-|KingsdomX|[Discord Invite][KingsdomX_Free_DiscordInvite]|[SpigotMC][KingsdomX_Paid_SpigotMC]
+|KingsdomX|[Discord Invite][KingsdomX_Free_DiscordInvite]  [Modrinth][KingsdomX_Free_Modrinth]|[SpigotMC][KingsdomX_Paid_SpigotMC]
 |Bentobox|[Github][Bentobox_Free_Github]  [SpigotMC][Bentobox_Free_SpigotMC]|NA
 |TownyAdvanced|[Github][TownyAdvanced_Free_Github]|NA|
 
@@ -52,6 +52,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [FactionUUID_Free_Jenkin]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
 [FactionUUID_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
 [KingsdomX_Free_DiscordInvite]: https://discord.gg/cKsSwtt
+[KingsdomX_Free_Modrinth]: https://modrinth.com/plugin/kingdomsx
 [KingsdomX_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
 [Bentobox_Free_Github]: https://github.com/BentoBoxWorld/BentoBox
 [Bentobox_Free_SpigotMC]: https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/
