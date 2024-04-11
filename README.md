@@ -5,8 +5,10 @@ This is contain all of my potentially usage of my own minecraft server, please t
 ### Must Have
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
+|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin][^1]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
 |FreedonChat|[Modrinth][FreedonChat_Free_Modrinth]|NA|
+
+[^1]: Development build
 
 [ProtocalLid_Free_Jenkin]: https://ci.dmulloy2.net/job/ProtocolLib/
 [ProtocalLid_Free_Github]: https://github.com/dmulloy2/ProtocolLib
@@ -29,13 +31,13 @@ This is contain all of my potentially usage of my own minecraft server, please t
 ### Land Management
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|PlotSquared|[Github][PlotSquared_Free_Github][^1]|[SpigotMC][PlotSquared_Paid_SpigotMC]:
-|FactionUUID|[Jenkin][FactionUUID_Free_Jenkin]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
+|PlotSquared|[Github][PlotSquared_Free_Github][^2]|[SpigotMC][PlotSquared_Paid_SpigotMC]:
+|FactionUUID|[Jenkin][FactionUUID_Free_Jenkin][^1]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
 |KingsdomX|[Discord Invite][KingsdomX_Free_DiscordInvite]|[SpigotMC][KingsdomX_Paid_SpigotMC]
 |Bentobox|[Github][Bentobox_Free_Github]  [SpigotMC][Bentobox_Free_SpigotMC]|NA
 |TownyAdvanced|[Github][TownyAdvanced_Free_Github]|NA|
 
-[^1]: You need to build it yourself
+[^2]: You need to build it yourself
 
 [PlotSquared_Free_Github]: https://github.com/IntellectualSites/PlotSquared/releases
 [PlotSquared_Paid_SpigotMC]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
