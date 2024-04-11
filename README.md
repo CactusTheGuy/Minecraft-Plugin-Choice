@@ -1,2 +1,2 @@
-# Minecraft-Plugin-Choice
-The list of personal minecraft spigot/paper plugins of choice
+# Introduction
+This is contain all of my potentially usage of my own minecraft server, please take this list as a grain of salt as this is personal references.
