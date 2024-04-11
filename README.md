@@ -26,6 +26,26 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [Multiverse-Core_Free_BukkitDev]: https://dev.bukkit.org/projects/multiverse-core
 [Multiverse-Core_Free_SpigotMC]: https://www.spigotmc.org/resources/multiverse-core.390/
 
+### Land Management
+|Plugin|Freemium|Premium|
+|------|:------:|:-----:|
+|PlotSquared|[Github][PlotSquared_Free_Github][^1]|[SpigotMC][PlotSquared_Paid_SpigotMC]:
+|FactionUUID|
+|KingsdomX|
+|Bentobox|
+
+[^1]: You need to build it yourself
+
+[PlotSquared_Free_Github]: https://github.com/IntellectualSites/PlotSquared/releases
+[PlotSquared_Paid_SpigotMC]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
+[FactionUUID_Free_Jenkin]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
+[FactionUUID_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
+[KingsdomX_Free_DiscordInvite]: https://discord.gg/cKsSwtt
+[KingsdomX_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
+[Bentobox_Free_Github]: https://github.com/BentoBoxWorld/BentoBox
+[Bentobox_Free_SpigotMC]: https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/
+[TownyAdvanced_Free_Github]: https://github.com/TownyAdvanced/Towny/releases/
+
 ## Addon
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
