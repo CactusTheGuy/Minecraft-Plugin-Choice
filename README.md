@@ -1,8 +1,11 @@
 # Introduction
 This is contain all of my potentially usage of my own minecraft server, please take this list as a grain of salt as this is personal references.
 
-## List of plugins
+# List of plugins
 ### Must Have
+<details>
+<summary>Click to open/collapse</summary>
+
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin][^1]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
@@ -14,8 +17,12 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [ProtocalLid_Free_Github]: https://github.com/dmulloy2/ProtocolLib
 [ProtocalLid_Free_SpigotMC]: https://www.spigotmc.org/resources/protocollib.1997/
 [FreedonChat_Free_Modrinth]: https://modrinth.com/plugin/freedomchat
+</details>
 
 ### Management
+<details>
+<summary>Click to open/collapse</summary>
+
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |CMI|NA|[SpigotMC][CMI_Paid_SpigotMC]|
@@ -27,8 +34,12 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [Multiverse-Core_Free_Github]: https://github.com/Multiverse/Multiverse-Core
 [Multiverse-Core_Free_BukkitDev]: https://dev.bukkit.org/projects/multiverse-core
 [Multiverse-Core_Free_SpigotMC]: https://www.spigotmc.org/resources/multiverse-core.390/
+</details>
 
 ### Land Management
+<details>
+<summary>Click to open/collapse</summary>
+
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |PlotSquared|[Github][PlotSquared_Free_Github][^2]|[SpigotMC][PlotSquared_Paid_SpigotMC]
@@ -48,14 +59,32 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [Bentobox_Free_Github]: https://github.com/BentoBoxWorld/BentoBox
 [Bentobox_Free_SpigotMC]: https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/
 [TownyAdvanced_Free_Github]: https://github.com/TownyAdvanced/Towny/releases/
+</details>
 
-## Addon
+### Skills/Enchantments
+<details>
+<summary>Click to open/collapse</summary>
+
+|Plugin|Freemium|Premium|
+|------|:------:|:-----:|
+|mcMMO|NA|[SpigotMC][mcMMO_Paid_SpigotMC]|
+
+[mcMMO_Paid_SpigotMC]: https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
+</details>
+
+### Addon
+<details>
+<summary>Click to open/collapse</summary>
+
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |Selective Visualiser|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
+|PlayerVaultX|NA|[SpigotMC][PlayerVaultX_Paid_SpigotMC]|
 |AxSmithing|[SpigotMC][AxSmithing_Free_SpigotMC]|NA|
 |CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 
 [SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
+[PlayerVaultX_Paid_SpigotMC]: https://www.spigotmc.org/resources/playervaultsx.51204/
 [AxSmithing_Free_SpigotMC]: https://www.spigotmc.org/resources/axsmithing-viaversion-addon.112793/
 [CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
+</details>
