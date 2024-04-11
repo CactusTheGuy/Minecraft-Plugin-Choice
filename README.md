@@ -10,7 +10,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Selective Visualiser|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
 |AxSmithing|[SpigotMC][AxSmithing_Free_SpigotMC]|NA|
 |CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
-|Multiverse-Core|[Github][Multiverse-Core_Free_Github] [BukkitMC][Multiverse-Core_Free_BukkitDev]  [SpigotMC][Multiverse-Core_Free_SpigotMC]|NA|
+|Multiverse-Core|[Github][Multiverse-Core_Free_Github] [BukkitDev][Multiverse-Core_Free_BukkitDev]  [SpigotMC][Multiverse-Core_Free_SpigotMC]|NA|
 
 [CMI_Paid_SpigotMC]: https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/
 [Citizens_Paid_SpigotMC]: https://www.spigotmc.org/resources/citizens.13811/
@@ -18,5 +18,5 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [AxSmithing_Free_SpigotMC]: https://www.spigotmc.org/resources/axsmithing-viaversion-addon.112793/
 [CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 [Multiverse-Core_Free_Github]: https://github.com/Multiverse/Multiverse-Core
-[Multiverse-Core_Free_BukkiDev]: https://dev.bukkit.org/projects/multiverse-core
+[Multiverse-Core_Free_BukkitDev]: https://dev.bukkit.org/projects/multiverse-core
 [Multiverse-Core_Free_SpigotMC]: https://www.spigotmc.org/resources/multiverse-core.390/
