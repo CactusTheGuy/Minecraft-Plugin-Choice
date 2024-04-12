@@ -69,10 +69,12 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |------|:------:|:-----:|
 |MythicMobs|[SpigotMC][MythicMobs_Free_SpigotMC]|[MythicCraft][MythicMobs_Paid_MythicCraft]|
 |mcMMO|NA|[SpigotMC][mcMMO_Paid_SpigotMC]|
+|CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 
 [MythicMobs_Free_SpigotMC]: https://www.spigotmc.org/resources/⚔-mythicmobs-free-version-►the-1-custom-mob-creator◄.5702/
 [MythicMobs_Paid_MythicCraft]: https://mythiccraft.io/index.php?pages/official-mythicmobs-purchase/
 [mcMMO_Paid_SpigotMC]: https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
+[CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 </details>
 
 ### Addon
@@ -86,7 +88,6 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |AxVaults|[SpigotMC][AxVaults_Free_SpigotMC]|NA|
 |XVaults|[SpigotMC][XVaults_Free_SpitgotMC]|NA|
 |AxSmithing|[SpigotMC][AxSmithing_Free_SpigotMC]|NA|
-|CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 
 [SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
 [PlayerVaultX_Free_Jenkin]: https://ci.ender.zone/view/All/job/PlayerVaultsX/
@@ -94,5 +95,4 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [AxVaults_Free_SpigotMC]: https://www.spigotmc.org/resources/axvaults-the-ultimate-vaults-plugin.114764/
 [XVaults_Free_SpitgotMC]: https://www.spigotmc.org/resources/xvaults-player-vaults-1-20.99163/
 [AxSmithing_Free_SpigotMC]: https://www.spigotmc.org/resources/axsmithing-viaversion-addon.112793/
-[CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 </details>
