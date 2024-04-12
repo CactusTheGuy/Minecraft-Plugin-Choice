@@ -65,7 +65,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|MythicMobs|[SpigotMC][MythicMobs_Free_SpigotMC]|[MythicCraft][MythicMobs][MythicMobs_Paid_MythicCraft]
+|MythicMobs|[SpigotMC][MythicMobs_Free_SpigotMC]|[MythicCraft][MythicMobs_Paid_MythicCraft]
 |mcMMO|NA|[SpigotMC][mcMMO_Paid_SpigotMC]|
 
 [MythicMobs_Free_SpigotMC]: https://www.spigotmc.org/resources/⚔-mythicmobs-free-version-►the-1-custom-mob-creator◄.5702/
