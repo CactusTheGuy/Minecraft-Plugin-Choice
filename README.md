@@ -1,5 +1,7 @@
 # Introduction
 This is contain all of my potentially usage of my own minecraft server, please take this list as a grain of salt as this is personal references.
+> [!WARNING]
+> This list assume you know how to build the jar files itself or knowing the risk of using development build.
 
 # List of plugins
 ### Must Have
