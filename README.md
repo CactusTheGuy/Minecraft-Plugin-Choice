@@ -59,14 +59,17 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [TownyAdvanced_Free_Github]: https://github.com/TownyAdvanced/Towny/releases/
 </details>
 
-### Skills/Enchantments
+### Game Mechanics
 <details>
 <summary>Click to open/collapse</summary>
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
+|MythicMobs|[SpigotMC][MythicMobs_Free_SpigotMC]|[MythicCraft][MythicMobs][MythicMobs_Paid_MythicCraft]
 |mcMMO|NA|[SpigotMC][mcMMO_Paid_SpigotMC]|
 
+[MythicMobs_Free_SpigotMC]: https://www.spigotmc.org/resources/⚔-mythicmobs-free-version-►the-1-custom-mob-creator◄.5702/
+[mcMMO_Paid_SpigotMC]: https://mythiccraft.io/index.php?pages/official-mythicmobs-purchase/
 [mcMMO_Paid_SpigotMC]: https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
 </details>
 
