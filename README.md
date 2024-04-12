@@ -73,11 +73,38 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 |MythicMobs|[SpigotMC][MythicMobs_Free_SpigotMC]|[MythicCraft][MythicMobs_Paid_MythicCraft]|
 |mcMMO|NA|[SpigotMC][mcMMO_Paid_SpigotMC]|
+|TradeMe|NA|[SpigotMC][TradeMe_Paid_SpigotMC]|
 
 [CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 [MythicMobs_Free_SpigotMC]: https://www.spigotmc.org/resources/⚔-mythicmobs-free-version-►the-1-custom-mob-creator◄.5702/
 [MythicMobs_Paid_MythicCraft]: https://mythiccraft.io/index.php?pages/official-mythicmobs-purchase/
 [mcMMO_Paid_SpigotMC]: https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
+[TradeMe_Paid_SpigotMC]: https://www.spigotmc.org/resources/trademe-with-api-to-create-custom-trades-1-7-10-1-20-x.7544/
+</details>
+
+### Shop
+<details>
+<summary>Click to open/collapse</summary>
+
+|Plugin|Freemium|Premium|
+|------|:------:|:-----:|
+|EconomyGUI|[SpigotMC][EconomyShopGUI_Free_SpigotMC]|[SpigotMC][EconomyShopGUI_Paid_SpigotMC]|
+|ExcellentShop|NA|[SpigotMC][ExcellentShop_Paid_SpigotMC]|
+
+[EconomyShopGUI_Free_SpigotMC]: https://www.spigotmc.org/resources/economyshopgui.69927/
+[EconomyShopGUI_Paid_SpigotMC]: https://www.spigotmc.org/resources/economyshopgui-premium.104414/
+[ExcellentShop_Paid_SpigotMC]: https://www.spigotmc.org/resources/excellentshop-4-in-1-multi-currency-shop.50696/
+</details>
+
+### Quest
+<details>
+<summary>Click to open/collapse</summary>
+
+|Plugin|Freemium|Premium|
+|------|:------:|:-----:|
+|BattlePass|NA|[SpigotMC][BattlePass_Paid_SpigotMC]|
+
+[BattlePass_Paid_SpigotMC]: https://www.spigotmc.org/resources/1-17-1-20-4-⭐-battlepass-⭐-quests-plugin-with-unlimited-customisable-quests⚔%EF%B8%8F-gui-editor-⭐.63076/
 </details>
 
 ### Storage
@@ -86,10 +113,14 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
+|BottledExp|[SpigotMC][BottledExp_Free_SpigotMC]|NA|
 |PlayerVaultX|[Jenkin][PlayerVaultX_Free_Jenkin]|[SpigotMC][PlayerVaultX_Paid_SpigotMC]|
 |AxVaults|[SpigotMC][AxVaults_Free_SpigotMC]|NA|
 |XVaults|[SpigotMC][XVaults_Free_SpitgotMC]|NA|
 
+> AxVault have a duplication glitch, use at your own risk.
+
+[BottledExp_Free_SpigotMC]: https://www.spigotmc.org/resources/bottledexp.2815/
 [PlayerVaultX_Free_Jenkin]: https://ci.ender.zone/view/All/job/PlayerVaultsX/
 [PlayerVaultX_Paid_SpigotMC]: https://www.spigotmc.org/resources/playervaultsx.51204/
 [AxVaults_Free_SpigotMC]: https://www.spigotmc.org/resources/axvaults-the-ultimate-vaults-plugin.114764/
