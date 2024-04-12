@@ -46,21 +46,21 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|PlotSquared|[Github][PlotSquared_Free_Github]|[SpigotMC][PlotSquared_Paid_SpigotMC]
+|Bentobox|[Github][Bentobox_Free_Github]  [SpigotMC][Bentobox_Free_SpigotMC]|NA|
 |FactionUUID|[Jenkin][FactionUUID_Free_Jenkin]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
 |KingsdomX|[Discord Invite][KingsdomX_Free_DiscordInvite]  [Modrinth][KingsdomX_Free_Modrinth]|[SpigotMC][KingsdomX_Paid_SpigotMC]
-|Bentobox|[Github][Bentobox_Free_Github]  [SpigotMC][Bentobox_Free_SpigotMC]|NA
+|PlotSquared|[Github][PlotSquared_Free_Github]|[SpigotMC][PlotSquared_Paid_SpigotMC]|
 |TownyAdvanced|[Github][TownyAdvanced_Free_Github]|NA|
 
-[PlotSquared_Free_Github]: https://github.com/IntellectualSites/PlotSquared/releases
-[PlotSquared_Paid_SpigotMC]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
-[FactionUUID_Free_Jenkin]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
-[FactionUUID_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
-[KingsdomX_Free_DiscordInvite]: https://discord.gg/cKsSwtt
-[KingsdomX_Free_Modrinth]: https://modrinth.com/plugin/kingdomsx
-[KingsdomX_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
 [Bentobox_Free_Github]: https://github.com/BentoBoxWorld/BentoBox
 [Bentobox_Free_SpigotMC]: https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/
+[FactionUUID_Free_Jenkin]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
+[FactionUUID_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
+[KingsdomX_Free_Modrinth]: https://modrinth.com/plugin/kingdomsx
+[KingsdomX_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
+[PlotSquared_Free_Github]: https://github.com/IntellectualSites/PlotSquared/releases
+[PlotSquared_Paid_SpigotMC]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
+[KingsdomX_Free_DiscordInvite]: https://discord.gg/cKsSwtt
 [TownyAdvanced_Free_Github]: https://github.com/TownyAdvanced/Towny/releases/
 </details>
 
@@ -70,14 +70,14 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
+|CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 |MythicMobs|[SpigotMC][MythicMobs_Free_SpigotMC]|[MythicCraft][MythicMobs_Paid_MythicCraft]|
 |mcMMO|NA|[SpigotMC][mcMMO_Paid_SpigotMC]|
-|CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
 
+[CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 [MythicMobs_Free_SpigotMC]: https://www.spigotmc.org/resources/⚔-mythicmobs-free-version-►the-1-custom-mob-creator◄.5702/
 [MythicMobs_Paid_MythicCraft]: https://mythiccraft.io/index.php?pages/official-mythicmobs-purchase/
 [mcMMO_Paid_SpigotMC]: https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
-[CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 </details>
 
 ### Storage
@@ -102,9 +102,10 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|Selective Visualiser|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
 |AxSmithing|[SpigotMC][AxSmithing_Free_SpigotMC]|NA|
+|Selective Visualizer|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
 
-[SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
 [AxSmithing_Free_SpigotMC]: https://www.spigotmc.org/resources/axsmithing-viaversion-addon.112793/
+[SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
+
 </details>
