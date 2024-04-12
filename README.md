@@ -10,7 +10,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin][^DB]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
+|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
 |FreedonChat|[Modrinth][FreedonChat_Free_Modrinth]|NA|
 
 [ProtocalLid_Free_Jenkin]: https://ci.dmulloy2.net/job/ProtocolLib/
@@ -43,8 +43,8 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|PlotSquared|[Github][PlotSquared_Free_Github][^BIY]|[SpigotMC][PlotSquared_Paid_SpigotMC]
-|FactionUUID|[Jenkin][FactionUUID_Free_Jenkin][^DB]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
+|PlotSquared|[Github][PlotSquared_Free_Github]|[SpigotMC][PlotSquared_Paid_SpigotMC]
+|FactionUUID|[Jenkin][FactionUUID_Free_Jenkin]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
 |KingsdomX|[Discord Invite][KingsdomX_Free_DiscordInvite]  [Modrinth][KingsdomX_Free_Modrinth]|[SpigotMC][KingsdomX_Paid_SpigotMC]
 |Bentobox|[Github][Bentobox_Free_Github]  [SpigotMC][Bentobox_Free_SpigotMC]|NA
 |TownyAdvanced|[Github][TownyAdvanced_Free_Github]|NA|
@@ -82,7 +82,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |Selective Visualiser|NA|[SpigotMC][SVIS_Paid_SpigotMC]|
-|PlayerVaultX|[Jenkin][PlayerVaultX_Free_Jenkin][^DB]|[SpigotMC][PlayerVaultX_Paid_SpigotMC]|
+|PlayerVaultX|[Jenkin][PlayerVaultX_Free_Jenkin]|[SpigotMC][PlayerVaultX_Paid_SpigotMC]|
 |AxVaults|[SpigotMC][AxVaults_Free_SpigotMC]|NA|
 |XVaults|[SpigotMC][XVaults_Free_SpitgotMC]|NA|
 |AxSmithing|[SpigotMC][AxSmithing_Free_SpigotMC]|NA|
@@ -96,7 +96,3 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [AxSmithing_Free_SpigotMC]: https://www.spigotmc.org/resources/axsmithing-viaversion-addon.112793/
 [CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 </details>
-
-
-[^DB]: Development build
-[^BIY]: Build It Yourself
