@@ -29,10 +29,11 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |CMI|NA|[SpigotMC][CMI_Paid_SpigotMC]|
-|Citizens|NA|[SpigotMC][Citizens_Paid_SpigotMC]|
+|Citizens|[Jenkin][Citizens_Free_Jenkin]|[SpigotMC][Citizens_Paid_SpigotMC]|
 |Multiverse-Core|[Github][Multiverse-Core_Free_Github]  [Modrinth][Multiverse-Core_Free_Modrinth]  [BukkitDev][Multiverse-Core_Free_BukkitDev]  [SpigotMC][Multiverse-Core_Free_SpigotMC]|NA|
 
 [CMI_Paid_SpigotMC]: https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/
+[Citizens_Free_Jenkin]: https://ci.citizensnpcs.co/
 [Citizens_Paid_SpigotMC]: https://www.spigotmc.org/resources/citizens.13811/
 [Multiverse-Core_Free_Github]: https://github.com/Multiverse/Multiverse-Core
 [Multiverse-Core_Free_Modrinth]: https://modrinth.com/plugin/multiverse-core
