@@ -139,5 +139,24 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 [AxSmithing_Free_SpigotMC]: https://www.spigotmc.org/resources/axsmithing-viaversion-addon.112793/
 [SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
+</details>
 
+### Offline Authentication
+
+> [!NOTE]
+> It's recommended to run in online mode.
+
+<details>
+<summary>Click to open/collapse</summary>
+
+|Plugin|Freemium|Premium|
+|------|:------:|:-----:|
+|AuthMeReloaded|[Jenkin][AuthMeReloaded_Free_Jenkin]|NA|
+|FastLogin|[Jenkin][FastLogin_Free_Jenkin]|NA|
+
+[AuthMeReloaded_Free_Jenkin]: https://ci.codemc.io/job/AuthMe/job/AuthMeReloaded/
+[FastLogin_Free_Jenkin]: https://ci.codemc.io/job/Games647/job/FastLogin/
+[FastLogin_Info_Github]: https://github.com/games647/FastLogin?tab=readme-ov-file
+
+> Visit FastLogin [Github][FastLogin_Info_Github] page for more info BEFORE installing.
 </details>
