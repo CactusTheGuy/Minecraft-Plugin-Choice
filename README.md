@@ -152,9 +152,11 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |AuthMeReloaded|[Jenkin][AuthMeReloaded_Free_Jenkin]|NA|
+|AuthMeReReloaded|[Modrinth][AuthMeReReloaded_Free_Modrinth]| NA|
 |FastLogin|[Jenkin][FastLogin_Free_Jenkin]|NA|
 
 [AuthMeReloaded_Free_Jenkin]: https://ci.codemc.io/job/AuthMe/job/AuthMeReloaded/
+[AuthMeReReloaded_Free_Modrinth]: https://modrinth.com/plugin/authmerereloaded
 [FastLogin_Free_Jenkin]: https://ci.codemc.io/job/Games647/job/FastLogin/
 [FastLogin_Info_Github]: https://github.com/games647/FastLogin?tab=readme-ov-file
 
