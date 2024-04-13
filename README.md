@@ -30,11 +30,13 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |------|:------:|:-----:|
 |CMI|NA|[SpigotMC][CMI_Paid_SpigotMC]|
 |Citizens|[Jenkin][Citizens_Free_Jenkin]|[SpigotMC][Citizens_Paid_SpigotMC]|
+|EssentialsX|[EssentialsX.net][EssentialsX_Free_EssentialsX.net]|NA|
 |Multiverse-Core|[Github][Multiverse-Core_Free_Github]  [Modrinth][Multiverse-Core_Free_Modrinth]  [BukkitDev][Multiverse-Core_Free_BukkitDev]  [SpigotMC][Multiverse-Core_Free_SpigotMC]|NA|
 
 [CMI_Paid_SpigotMC]: https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/
 [Citizens_Free_Jenkin]: https://ci.citizensnpcs.co/
 [Citizens_Paid_SpigotMC]: https://www.spigotmc.org/resources/citizens.13811/
+[EssentialsX_Free_EssentialsX.net]: https://essentialsx.net/downloads.html
 [Multiverse-Core_Free_Github]: https://github.com/Multiverse/Multiverse-Core
 [Multiverse-Core_Free_Modrinth]: https://modrinth.com/plugin/multiverse-core
 [Multiverse-Core_Free_BukkitDev]: https://dev.bukkit.org/projects/multiverse-core
@@ -72,13 +74,13 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |CombatlogX|[SpigotMC][CombatlogX_Free_SpigotMC]|NA|
-|MythicMobs|[SpigotMC][MythicMobs_Free_SpigotMC]|[MythicCraft][MythicMobs_Paid_MythicCraft]|
+|MythicMobs|[SpigotMC][MythicMobs_Free_SpigotMC]|[MythicCraft.io][MythicMobs_Paid_MythicCraft.io]|
 |mcMMO|NA|[SpigotMC][mcMMO_Paid_SpigotMC]|
 |TradeMe|NA|[SpigotMC][TradeMe_Paid_SpigotMC]|
 
 [CombatlogX_Free_SpigotMC]: https://www.spigotmc.org/resources/combatlogx.31689/
 [MythicMobs_Free_SpigotMC]: https://www.spigotmc.org/resources/⚔-mythicmobs-free-version-►the-1-custom-mob-creator◄.5702/
-[MythicMobs_Paid_MythicCraft]: https://mythiccraft.io/index.php?pages/official-mythicmobs-purchase/
+[MythicMobs_Paid_MythicCraft.io]: https://mythiccraft.io/index.php?pages/official-mythicmobs-purchase/
 [mcMMO_Paid_SpigotMC]: https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
 [TradeMe_Paid_SpigotMC]: https://www.spigotmc.org/resources/trademe-with-api-to-create-custom-trades-1-7-10-1-20-x.7544/
 </details>
