@@ -93,10 +93,14 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |------|:------:|:-----:|
 |EconomyGUI|[SpigotMC][EconomyShopGUI_Free_SpigotMC]|[SpigotMC][EconomyShopGUI_Paid_SpigotMC]|
 |ExcellentShop|NA|[SpigotMC][ExcellentShop_Paid_SpigotMC]|
+|zAuctionHouse|NA|[SpigotMC][zAuctionHouse_Paid_SpigotMC]|
+|zShop|NA|[SpigotMC][zShop_Paid_SpigotMC]|
 
 [EconomyShopGUI_Free_SpigotMC]: https://www.spigotmc.org/resources/economyshopgui.69927/
 [EconomyShopGUI_Paid_SpigotMC]: https://www.spigotmc.org/resources/economyshopgui-premium.104414/
 [ExcellentShop_Paid_SpigotMC]: https://www.spigotmc.org/resources/excellentshop-4-in-1-multi-currency-shop.50696/
+[zAuctionHouse_Paid_SpigotMC]: https://www.spigotmc.org/resources/1-8-1-20-zauctionhouse-2000-servers-online.63010/
+[zShop_Paid_SpigotMC]: https://www.spigotmc.org/resources/zshop-1-8-1-20-advanced-shop-plugin.74073/
 </details>
 
 ### Quest
@@ -143,7 +147,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [SVIS_Paid_SpigotMC]: https://www.spigotmc.org/resources/selection-visualizer.22631/
 </details>
 
-### Offline Authentication
+### Authentication
 
 > [!NOTE]
 > It's recommended to run in online mode.
