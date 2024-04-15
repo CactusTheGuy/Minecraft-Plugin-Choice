@@ -57,8 +57,8 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 [Bentobox_Free_Github]: https://github.com/BentoBoxWorld/BentoBox
 [Bentobox_Free_SpigotMC]: https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/
-[FactionUUID_Free_Jenkin]: https://www.spigotmc.org/resources/plotsquared-v7.77506/
-[FactionUUID_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
+[FactionUUID_Free_Jenkin]: https://ci.ender.zone/job/FactionsUUID/
+[FactionUUID_Paid_SpigotMC]: https://www.spigotmc.org/resources/factionsuuid.1035/
 [KingsdomX_Free_Modrinth]: https://modrinth.com/plugin/kingdomsx
 [KingsdomX_Paid_SpigotMC]: https://www.spigotmc.org/resources/kingdomsx.77670/
 [PlotSquared_Free_Github]: https://github.com/IntellectualSites/PlotSquared/releases
