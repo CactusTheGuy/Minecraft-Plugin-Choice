@@ -62,7 +62,6 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-
 |Bentobox|[Github][Bentobox_Free_Github]  [SpigotMC][Bentobox_Free_SpigotMC]|NA|
 |FactionUUID|[Jenkin][FactionUUID_Free_Jenkin]|[SpigotMC][FactionUUID_Paid_SpigotMC]|
 |KingsdomX|[Discord Invite][KingsdomX_Free_DiscordInvite]  [Modrinth][KingsdomX_Free_Modrinth]|[SpigotMC][KingsdomX_Paid_SpigotMC]
