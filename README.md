@@ -11,7 +11,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
 |FreedonChat|[Modrinth][FreedonChat_Free_Modrinth]|NA|
-|ProtocalLid|[Jenkin][ProtocalLid_Free_Jenkin]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
+|ProtocolLid|[Jenkin][ProtocalLid_Free_Jenkin]  [Github][ProtocalLid_Free_Github]  [SpigotMC][ProtocalLid_Free_SpigotMC]|NA|
 |Vault|[BukkitDev][Vault_Free_BukkitDev]  [SpigotMC][Vault_Free_SpigotMC]|NA|
 
 [FreedonChat_Free_Modrinth]: https://modrinth.com/plugin/freedomchat
