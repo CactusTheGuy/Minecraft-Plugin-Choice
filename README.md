@@ -43,7 +43,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [Multiverse-Core_Free_SpigotMC]: https://www.spigotmc.org/resources/multiverse-core.390/
 </details>
 
-### Land Management
+### Land Claiming
 <details>
 <summary>Click to open/collapse</summary>
 
@@ -109,8 +109,10 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
+|Quests|[Modrinth][Quests_Free_Modrinth]|NA|
 |BattlePass|NA|[SpigotMC][BattlePass_Paid_SpigotMC]|
 
+[Quests_Free_Modrinth]: https://modrinth.com/plugin/quests.classic
 [BattlePass_Paid_SpigotMC]: https://www.spigotmc.org/resources/1-17-1-20-4-⭐-battlepass-⭐-quests-plugin-with-unlimited-customisable-quests⚔%EF%B8%8F-gui-editor-⭐.63076/
 </details>
 
