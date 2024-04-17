@@ -33,6 +33,8 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |EssentialsX|[EssentialsX.net][EssentialsX_Free_EssentialsX.net]|NA|
 |Multiverse-Core|[Github][Multiverse-Core_Free_Github]  [Modrinth][Multiverse-Core_Free_Modrinth]  [BukkitDev][Multiverse-Core_Free_BukkitDev]  [SpigotMC][Multiverse-Core_Free_SpigotMC]|NA|
 
+> Multiverse-Core in SpigotMC is outdated, go to other download page for newer versions
+
 [CMI_Paid_SpigotMC]: https://www.spigotmc.org/resources/cmi-298-commands-insane-kits-portals-essentials-economy-mysql-sqlite-much-more.3742/
 [Citizens_Free_Jenkin]: https://ci.citizensnpcs.co/
 [Citizens_Paid_SpigotMC]: https://www.spigotmc.org/resources/citizens.13811/
@@ -41,6 +43,7 @@ This is contain all of my potentially usage of my own minecraft server, please t
 [Multiverse-Core_Free_Modrinth]: https://modrinth.com/plugin/multiverse-core
 [Multiverse-Core_Free_BukkitDev]: https://dev.bukkit.org/projects/multiverse-core
 [Multiverse-Core_Free_SpigotMC]: https://www.spigotmc.org/resources/multiverse-core.390/
+
 </details>
 
 ### Inventory GUI Menu
@@ -176,10 +179,11 @@ This is contain all of my potentially usage of my own minecraft server, please t
 |AuthMeReReloaded|[Modrinth][AuthMeReReloaded_Free_Modrinth]| NA|
 |FastLogin|[Jenkin][FastLogin_Free_Jenkin]|NA|
 
+> Visit FastLogin [Github][FastLogin_Info_Github] page for more info BEFORE installing.
+
 [AuthMeReloaded_Free_Jenkin]: https://ci.codemc.io/job/AuthMe/job/AuthMeReloaded/
 [AuthMeReReloaded_Free_Modrinth]: https://modrinth.com/plugin/authmerereloaded
 [FastLogin_Free_Jenkin]: https://ci.codemc.io/job/Games647/job/FastLogin/
 [FastLogin_Info_Github]: https://github.com/games647/FastLogin?tab=readme-ov-file
 
-> Visit FastLogin [Github][FastLogin_Info_Github] page for more info BEFORE installing.
 </details>
