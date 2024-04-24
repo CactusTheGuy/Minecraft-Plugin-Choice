@@ -52,10 +52,13 @@ This is contain all of my potentially usage of my own minecraft server, please t
 
 |Plugin|Freemium|Premium|
 |------|:------:|:-----:|
-|BetterGUI|[SpigotMC][BetterGUI_Free_SpigotMC]|NA|
+|BetterGUI|[Modrinth][BetterGUI_Free_Modrinth] [SpigotMC][BetterGUI_Free_SpigotMC]|NA|
+|DeluxeMenus|[SpigotMC][DeluxeMenus_Free_SpigotMC]|NA|
 |zMenu|[SpigotMC][zMenu_Free_SpigotMC]|NA|
 
+[BetterGUI_Free_Modrinth]: https://modrinth.com/plugin/bettergui
 [BetterGUI_Free_SpigotMC]: https://www.spigotmc.org/resources/bettergui.75620/
+[DeluxeMenus_Free_SpigotMC]: https://www.spigotmc.org/resources/deluxemenus.11734/
 [zMenu_Free_SpigotMC]: https://www.spigotmc.org/resources/zmenu-ultra-complete-menu-plugin.110402/
 </details>
 
